@@ -1,0 +1,17 @@
+/curtain/
+/curtain_cluster/
+/curtain_cluster_force/
+/hall/
+/office/
+/overpass/
+/overpass_cluster/
+/overpass_cluster1/
+/overpass_cluster_force/
+/overpass_cluster_force1/
+/overpass_cluster_force2/
+/people1/
+/people1_cluster/
+/people1_cluster_force/
+*.mov
+*.avi
+
